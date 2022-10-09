@@ -118,6 +118,11 @@ header nav li a {
     color: #EFEDE7;
     font-weight: 800;
     text-transform: uppercase;
+    cursor: pointer;
+}
+
+.produtos button:hover {
+    background-color: #959C92;
 }
 
 @media screen and (max-width: 767px) {
